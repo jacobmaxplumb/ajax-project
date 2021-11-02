@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Jacob",
+      "lastName": "Plumb",
+      "email": "jacobmaxplumb@gmail.com"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "body": "this is my first post",
+      "likes": 0
+    }
+  ]
+}
